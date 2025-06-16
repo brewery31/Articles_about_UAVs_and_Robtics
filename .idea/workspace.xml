@@ -5,21 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3117fd7-d353-46d1-a92b-cfe4db767b89" name="更改" comment="fast lab update">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Summaries/FAST Lab/A Complete and Robust System for Aggressive Flight in Complex Environments.md" beforeDir="false" afterPath="$PROJECT_DIR$/Summaries/FAST_Lab/A_Complete_and_Robust_System.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Summaries/FAST Lab/Adaptive Tracking and Perching for Quadrotor in Dynamic Scenarios.md" beforeDir="false" afterPath="$PROJECT_DIR$/Summaries/FAST_Lab/Adaptive_Tracking_and_Perching_for.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Summaries/FAST Lab/Geometrically Constrained Trajectory Optimization for Multicopters.md" beforeDir="false" afterPath="$PROJECT_DIR$/Summaries/FAST_Lab/Geometrically_Constrained_Trajectory.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Summaries/FAST Lab/Impact-Aware Planning and Control for Aerial Robots with Suspended Payloads.md" beforeDir="false" afterPath="$PROJECT_DIR$/Summaries/FAST_Lab/Impact-Aware_Planning_and_Control.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Summaries/FAST Lab/Microsaccade-inspired event camera for robotics.md" beforeDir="false" afterPath="$PROJECT_DIR$/Summaries/FAST_Lab/Microsaccade-inspired_event_camera_for_robotics.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Summaries/FAST Lab/Robust and Efficient Trajectory Planning for Formation Flight in Dense Environments.md" beforeDir="false" afterPath="$PROJECT_DIR$/Summaries/FAST_Lab/Robust_and_Efficient_Trajectory_Planning.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Summaries/FAST Lab/Robust and Perception-aware Trajectory Replanning for Quadrotor Fast Flight.md" beforeDir="false" afterPath="$PROJECT_DIR$/Summaries/FAST_Lab/Robust_and_Perception-aware_Trajectory_Replanning_for_Quadrotor_Fast_Flight.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Summaries/FAST Lab/Swarm of Micro Flying Robots in the Wild.md" beforeDir="false" afterPath="$PROJECT_DIR$/Summaries/FAST_Lab/Swarm_of_Micro_Flying_Robots_in_the_Wild.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Summaries/FAST Lab/images/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/Summaries/FAST_Lab/images/img.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Summaries/FAST Lab/images/img_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Summaries/FAST_Lab/images/img_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Summaries/FAST Lab/images/img_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Summaries/FAST_Lab/images/img_2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Summaries/FAST Lab/images/img_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/Summaries/FAST_Lab/images/img_3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Summaries/FAST Lab/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/Summaries/FAST_Lab/img.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +77,7 @@
       <updated>1749979381921</updated>
       <workItem from="1749979382940" duration="1505000" />
       <workItem from="1750041247506" duration="6556000" />
-      <workItem from="1750054232969" duration="6588000" />
+      <workItem from="1750054232969" duration="6749000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <option name="closed" value="true" />
@@ -189,7 +175,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750060805526</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="fast lab update">
+      <option name="closed" value="true" />
+      <created>1750061380328</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1750061380328</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
