@@ -11,35 +11,35 @@
 #### 2022
 * [Swarm of Micro Flying Robots in the Wild](https://www.science.org/doi/10.1126/scirobotics.abm5954)  
   Xin Zhou, Xiangyong Wen, Zhepei Wang, Yuman Gao, Haojia Li, Qianhao Wang, Tiankai Yang, Haojian Lu, Yanjun Cao, Chao Xu, Fei Gao
-[[AI总结]](Summaries/FAST_Lab/Swarm_of_Micro_Flying_Robots_in_the_Wild)
+[[AI总结]](Summaries/FAST_Lab/Swarm_of_Micro_Flying_Robots_in_the_Wild.md)
 ### IEEE Transactions on Robotics (T-RO)[J]
 #### 2024
 * [Impact-Aware Planning and Control for Aerial Robots with Suspended Payloads](https://ieeexplore.ieee.org/document/10478625)   
 Haokun Wang, Haojia Li, Boyu Zhou, Fei Gao, Shaojie Shen.
 [[Github链接]](https://github.com/HKUST-Aerial-Robotics/IMPACTOR)
-[[AI总结]](Summaries/FAST_Lab/Impact-Aware_Planning_and_Control)
+[[AI总结]](Summaries/FAST_Lab/Impact-Aware_Planning_and_Control.md)
 #### 2023 
 * [Adaptive Tracking and Perching for Quadrotor in Dynamic Scenarios](http://arxiv.org/abs/2312.11866)
 Yuman Gao, Jialin Ji, Qianhao Wang, Rui Jin, Yi Lin, Zhimeng Shang, Yanjun Cao, Shaojie Shen, Chao Xu, Fei Gao.
-[[AI总结]](Summaries/FAST_Lab/Adaptive_Tracking_and_Perching_for)
+[[AI总结]](Summaries/FAST_Lab/Adaptive_Tracking_and_Perching_for.md)
 
 * [Robust and Efficient Trajectory Planning for Formation Flight in Dense Environments](https://ar5iv.labs.arxiv.org/html/2210.04048)  
 Lun Quan, Longji Yin, Tingrui Zhang, Mingyang Wang, Ruilin Wang, Sheng Zhong, Yanjun Cao, Chao Xu, Fei Gao.
-[[AI总结]](Summaries/FAST_Lab/Robust_and_Efficient_Trajectory_Planning)
+[[AI总结]](Summaries/FAST_Lab/Robust_and_Efficient_Trajectory_Planning.md)
 
 #### 2022
 * [Geometrically Constrained Trajectory Optimization for Multicopters](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9765821&ref=)
 Zhepei Wang, Xin Zhou, Chao Xu, Fei Gao.
-[[AI总结]](Summaries/FAST_Lab/Geometrically_Constrained_Trajectory)
+[[AI总结]](Summaries/FAST_Lab/Geometrically_Constrained_Trajectory.md)
 
 
 #### 2021
 * [Raptor: Robust and Perception-aware Trajectory Replanning for Quadrotor Fast Flight](https://ieeexplore.ieee.org/document/9422918/)
-Boyu Zhou, Jie Pan, Fei Gao, Shaojie Shen.[[AI总结]](Summaries/FAST_Lab/Robust_and_Perception-aware_Trajectory_Replanning_for_Quadrotor_Fast_Flight)
+Boyu Zhou, Jie Pan, Fei Gao, Shaojie Shen.[[AI总结]](Summaries/FAST_Lab/Robust_and_Perception-aware_Trajectory_Replanning_for_Quadrotor_Fast_Flight.md)
 
 #### 2020
 * [Teach-Repeat-Replan: A Complete and Robust System for Aggressive Flight in Complex Environments](https://ieeexplore.ieee.org/document/9102390/)
-Fei Gao, Luqi Wang, Boyu Zhou, Xin Zhou, Jie Pan, Shaojie Shen.Teach-Repeat-Replan: [[AI总结]](Summaries/FAST_Lab/A_Complete_and_Robust_System)
+Fei Gao, Luqi Wang, Boyu Zhou, Xin Zhou, Jie Pan, Shaojie Shen.Teach-Repeat-Replan: [[AI总结]](Summaries/FAST_Lab/A_Complete_and_Robust_System.md)
 
 
 ### IEEE Robotics and Automation Letters (RA-L)[J]
