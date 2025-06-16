@@ -1,4 +1,4 @@
-# Articles about UAVs and Robtics
+# Articles about UAVs and Robotics
 ### 本项目旨在整理一些无人机或机器人课题组所做内容以及所发期刊会议文章（按照期刊/会议-时间排序）
 ## FAST Lab - 浙江大学
 网址：http://zju-fast.com   
