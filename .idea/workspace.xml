@@ -5,6 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3117fd7-d353-46d1-a92b-cfe4db767b89" name="更改" comment="fast lab update">
+      <change afterPath="$PROJECT_DIR$/Summaries/FAST Lab/A Complete and Robust System for Aggressive Flight in Complex Environments.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Summaries/FAST Lab/Adaptive Tracking and Perching for Quadrotor in Dynamic Scenarios.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Summaries/FAST Lab/Geometrically Constrained Trajectory Optimization for Multicopters.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Summaries/FAST Lab/Impact-Aware Planning and Control for Aerial Robots with Suspended Payloads.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Summaries/FAST Lab/Robust and Efficient Trajectory Planning for Formation Flight in Dense Environments.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Summaries/FAST Lab/Robust and Perception-aware Trajectory Replanning for Quadrotor Fast Flight.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Summaries/FAST Lab/Swarm of Micro Flying Robots in the Wild.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Summaries/FAST Lab/images/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Summaries/FAST Lab/images/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Summaries/FAST Lab/images/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Summaries/FAST Lab/images/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Summaries/FAST Lab/img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +44,9 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2yXSN3a9vnlfCbGsQyWMTJe3tb7" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -52,6 +67,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Summaries/FAST Lab/images" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -70,7 +90,7 @@
       <updated>1749979381921</updated>
       <workItem from="1749979382940" duration="1505000" />
       <workItem from="1750041247506" duration="6556000" />
-      <workItem from="1750054232969" duration="2413000" />
+      <workItem from="1750054232969" duration="5849000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <option name="closed" value="true" />
@@ -136,7 +156,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750056821334</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="fast lab update">
+      <option name="closed" value="true" />
+      <created>1750056882880</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1750056882880</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

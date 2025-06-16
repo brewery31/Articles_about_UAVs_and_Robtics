@@ -6,33 +6,41 @@
 ### Science Robotics (SR) [J]
 #### 2024
 * [Microsaccade-inspired event camera for robotics](https://www.science.org/doi/10.1126/scirobotics.adj8124)  
-  Botao He, Ze Wang, Yuan Zhou, Jingxi Chen, Chahat Deep Singh, Haojia Li, Yuman Gao, Kaiwei Wang, Yanjun Cao, Chao Xu, Yiannis Aloimonos, Fei Gao, Cornelia Fermüller     
+  Botao He, Ze Wang, Yuan Zhou, Jingxi Chen, Chahat Deep Singh, Haojia Li, Yuman Gao, Kaiwei Wang, Yanjun Cao, Chao Xu, Yiannis Aloimonos, Fei Gao, Cornelia Fermüller 
 [[AI总结]](Summaries/FAST Lab/Microsaccade-inspired event camera for robotics.md)
 #### 2022
 * [Swarm of Micro Flying Robots in the Wild](https://www.science.org/doi/10.1126/scirobotics.abm5954)  
   Xin Zhou, Xiangyong Wen, Zhepei Wang, Yuman Gao, Haojia Li, Qianhao Wang, Tiankai Yang, Haojian Lu, Yanjun Cao, Chao Xu, Fei Gao
+[[AI总结]](Summaries/FAST Lab/Swarm of Micro Flying Robots in the Wild.md)
 ### IEEE Transactions on Robotics (T-RO)[J]
 #### 2024
-* Impact-Aware Planning and Control for Aerial Robots with Suspended Payloads
+* [Impact-Aware Planning and Control for Aerial Robots with Suspended Payloads](https://ieeexplore.ieee.org/document/10478625)   
 Haokun Wang, Haojia Li, Boyu Zhou, Fei Gao, Shaojie Shen.
-
+[[Github链接]](https://github.com/HKUST-Aerial-Robotics/IMPACTOR)
+[[AI总结]](Summaries/FAST Lab/Impact-Aware Planning and Control for Aerial Robots with Suspended Payloads.md)
 #### 2023 
-* Adaptive Tracking and Perching for Quadrotor in Dynamic Scenarios
-Yuman Gao, Jialin Ji, Qianhao Wang, Rui Jin, Yi Lin, Zhimeng Shang, Yanjun Cao, Shaojie Shen, Chao Xu, Fei Gao.    
+* [Adaptive Tracking and Perching for Quadrotor in Dynamic Scenarios](http://arxiv.org/abs/2312.11866)
+Yuman Gao, Jialin Ji, Qianhao Wang, Rui Jin, Yi Lin, Zhimeng Shang, Yanjun Cao, Shaojie Shen, Chao Xu, Fei Gao.
+[[AI总结]](Summaries/FAST Lab/Adaptive Tracking and Perching for Quadrotor in Dynamic Scenarios.md)
 
-* Robust and Efficient Trajectory Planning for Formation Flight in Dense Environments   
+* [Robust and Efficient Trajectory Planning for Formation Flight in Dense Environments](https://ar5iv.labs.arxiv.org/html/2210.04048)  
 Lun Quan, Longji Yin, Tingrui Zhang, Mingyang Wang, Ruilin Wang, Sheng Zhong, Yanjun Cao, Chao Xu, Fei Gao.
+[[AI总结]](Summaries/FAST Lab/Robust and Efficient Trajectory Planning for Formation Flight in Dense Environments.md)
 
 #### 2022
-* Geometrically Constrained Trajectory Optimization for Multicopters Zhepei Wang, Xin Zhou, Chao Xu, Fei Gao.
+* [Geometrically Constrained Trajectory Optimization for Multicopters](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9765821&ref=)
+Zhepei Wang, Xin Zhou, Chao Xu, Fei Gao.
+[[AI总结]](Summaries/FAST Lab/Geometrically Constrained Trajectory Optimization for Multicopters.md)
+
 
 #### 2021
-* Raptor: Robust and Perception-aware Trajectory Replanning for Quadrotor Fast Flight
-Boyu Zhou, Jie Pan, Fei Gao, Shaojie Shen.
+* [Raptor: Robust and Perception-aware Trajectory Replanning for Quadrotor Fast Flight](https://ieeexplore.ieee.org/document/9422918/)
+Boyu Zhou, Jie Pan, Fei Gao, Shaojie Shen.[[AI总结]](Summaries/FAST Lab/Robust and Perception-aware Trajectory Replanning for Quadrotor Fast Flight.md)
 
 #### 2020
-* Teach-Repeat-Replan: A Complete and Robust System for Aggressive Flight in Complex Environments
-Fei Gao, Luqi Wang, Boyu Zhou, Xin Zhou, Jie Pan, Shaojie Shen.
+* [Teach-Repeat-Replan: A Complete and Robust System for Aggressive Flight in Complex Environments](https://ieeexplore.ieee.org/document/9102390/)
+Fei Gao, Luqi Wang, Boyu Zhou, Xin Zhou, Jie Pan, Shaojie Shen.Teach-Repeat-Replan: [[AI总结]](Summaries/FAST Lab/A Complete and Robust System for Aggressive Flight in Complex Environments.md)
+
 
 ### IEEE Robotics and Automation Letters (RA-L)[J]
 #### 2024
