@@ -3,37 +3,38 @@
 ## FAST Lab - 浙江大学
 网址：http://zju-fast.com   
 所发期刊   
-### Science Robotics (SR)[J]
-#### 2014
-* Microsaccade-inspired event camera for robotics
-Botao He, Ze Wang, Yuan Zhou, Jingxi Chen, Chahat Deep Singh, Haojia Li, Yuman Gao, Kaiwei Wang, Yanjun Cao, Chao Xu, Yiannis Aloimonos, Fei Gao, Cornelia Fermüller.
-
-#### 2012
-* Swarm of Micro Flying Robots in the Wild
-Xin Zhou, Xiangyong Wen, Zhepei Wang, Yuman Gao, Haojia Li, Qianhao Wang, Tiankai Yang, Haojian Lu, Yanjun Cao, Chao Xu, Fei Gao.
-
-### IEEE Transactions on Robotics (T-RO)[J]
+### Science Robotics (SR) [J]
 #### 2024
-* Impact-Aware Planning and Control for Aerial Robots with Suspended Payloads
-Haokun Wang, Haojia Li, Boyu Zhou, Fei Gao, Shaojie Shen.
-
-#### 2023 
-* Adaptive Tracking and Perching for Quadrotor in Dynamic Scenarios
-Yuman Gao, Jialin Ji, Qianhao Wang, Rui Jin, Yi Lin, Zhimeng Shang, Yanjun Cao, Shaojie Shen, Chao Xu, Fei Gao.    
-
-* Robust and Efficient Trajectory Planning for Formation Flight in Dense Environments   
-Lun Quan, Longji Yin, Tingrui Zhang, Mingyang Wang, Ruilin Wang, Sheng Zhong, Yanjun Cao, Chao Xu, Fei Gao.
+* [Microsaccade-inspired event camera for robotics](https://www.science.org/doi/10.1126/scirobotics.adj8124)  
+  Botao He, Ze Wang, Yuan Zhou, Jingxi Chen, Chahat Deep Singh, Haojia Li, Yuman Gao, Kaiwei Wang, Yanjun Cao, Chao Xu, Yiannis Aloimonos, Fei Gao, Cornelia Fermüller
 
 #### 2022
-* Geometrically Constrained Trajectory Optimization for Multicopters Zhepei Wang, Xin Zhou, Chao Xu, Fei Gao.
+* [Swarm of Micro Flying Robots in the Wild](https://www.science.org/doi/10.1126/scirobotics.abm5954)  
+  Xin Zhou, Xiangyong Wen, Zhepei Wang, Yuman Gao, Haojia Li, Qianhao Wang, Tiankai Yang, Haojian Lu, Yanjun Cao, Chao Xu, Fei Gao
+### IEEE Transactions on Robotics (T-RO) [J]
+#### 2024
+* [Impact-Aware Planning and Control for Aerial Robots with Suspended Payloads](https://ieeexplore.ieee.org/document/10411326)  
+  Haokun Wang, Haojia Li, Boyu Zhou, Fei Gao, Shaojie Shen
+
+#### 2023
+* [Adaptive Tracking and Perching for Quadrotor in Dynamic Scenarios](https://ieeexplore.ieee.org/document/10106108)  
+  Yuman Gao, Jialin Ji, Qianhao Wang, Rui Jin, Yi Lin, Zhimeng Shang, Yanjun Cao, Shaojie Shen, Chao Xu, Fei Gao
+
+* [Robust and Efficient Trajectory Planning for Formation Flight in Dense Environments](https://ieeexplore.ieee.org/document/10045705)  
+  Lun Quan, Longji Yin, Tingrui Zhang, Mingyang Wang, Ruilin Wang, Sheng Zhong, Yanjun Cao, Chao Xu, Fei Gao
+
+#### 2022
+* [Geometrically Constrained Trajectory Optimization for Multicopters](https://ieeexplore.ieee.org/document/9702916)  
+  Zhepei Wang, Xin Zhou, Chao Xu, Fei Gao
 
 #### 2021
-* Raptor: Robust and Perception-aware Trajectory Replanning for Quadrotor Fast Flight
-Boyu Zhou, Jie Pan, Fei Gao, Shaojie Shen.
+* [Raptor: Robust and perception-aware trajectory replanning for quadrotor fast flight](https://ieeexplore.ieee.org/document/9351853)  
+  Boyu Zhou, Jie Pan, Fei Gao, Shaojie Shen
 
 #### 2020
-* Teach-Repeat-Replan: A Complete and Robust System for Aggressive Flight in Complex Environments
-Fei Gao, Luqi Wang, Boyu Zhou, Xin Zhou, Jie Pan, Shaojie Shen.
+* [Teach-Repeat-Replan: A Complete and Robust System for Aggressive Flight in Complex Environments](https://ieeexplore.ieee.org/document/8969668)  
+  Fei Gao, Luqi Wang, Boyu Zhou, Xin Zhou, Jie Pan, Shaojie Shen  
+  *King-Sun Fu Memorial Best Paper Award Honorable Mention*
 
 ### IEEE Robotics and Automation Letters (RA-L)[J]
 #### 2024
