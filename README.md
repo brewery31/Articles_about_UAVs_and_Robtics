@@ -7,7 +7,7 @@
 #### 2024
 * [Microsaccade-inspired event camera for robotics](https://www.science.org/doi/10.1126/scirobotics.adj8124)  
   Botao He, Ze Wang, Yuan Zhou, Jingxi Chen, Chahat Deep Singh, Haojia Li, Yuman Gao, Kaiwei Wang, Yanjun Cao, Chao Xu, Yiannis Aloimonos, Fei Gao, Cornelia Fermüller 
-[AI总结](/Summaries/FAST_Lab/Microsaccade-inspired_event_camera_for_robotics.md)
+[[AI总结]](/Summaries/FAST_Lab/Microsaccade-inspired_event_camera_for_robotics.md)
 #### 2022
 * [Swarm of Micro Flying Robots in the Wild](https://www.science.org/doi/10.1126/scirobotics.abm5954)  
   Xin Zhou, Xiangyong Wen, Zhepei Wang, Yuman Gao, Haojia Li, Qianhao Wang, Tiankai Yang, Haojian Lu, Yanjun Cao, Chao Xu, Fei Gao
