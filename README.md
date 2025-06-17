@@ -232,7 +232,7 @@ Fei Gao, Yi Lin, Shaojie Shen.
 ### Robotica [J]
 [Decentralized controllers for shape generation with robotic swarms](https://dl.acm.org/doi/10.1017/S0263574708004323)
 M. Ani Hsieh1,∗, Vijay Kumar1 and Luiz Chaimowicz2 
-[[AI总结]](/Users/brewery/PycharmProjects/PythonProject/Summaries/GRASP/Decentralized_controllers_for_shape_generation/Decentralized_controllers_for_shape_generation.md)
+[[AI总结]](/Summaries/GRASP/Decentralized_controllers_for_shape_generation/Decentralized_controllers_for_shape_generation.md)
 
 ## LAB FOR AUTONOMOUS ROBOTICS RESEARCH - SEOUL NATIONAL UNIVERSITY
 网址：https://larr.snu.ac.kr   
