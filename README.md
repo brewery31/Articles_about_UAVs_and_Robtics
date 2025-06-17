@@ -229,6 +229,11 @@ Fei Gao, Yi Lin, Shaojie Shen.
 ## GRASP Laboratory - UNIVERSITY of PENNSYLVANIA 
 网址：https://www.kumarrobotics.org   
 所发期刊
+### Robotica [J]
+[Decentralized controllers for shape generation with robotic swarms](https://dl.acm.org/doi/10.1017/S0263574708004323)
+M. Ani Hsieh1,∗, Vijay Kumar1 and Luiz Chaimowicz2 
+[[AI总结]](Summaries/GRASP/Decentralized_controllers_for_shape_generation.md)
+
 ## LAB FOR AUTONOMOUS ROBOTICS RESEARCH - SEOUL NATIONAL UNIVERSITY
 网址：https://larr.snu.ac.kr   
 所发期刊
