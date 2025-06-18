@@ -227,7 +227,7 @@ Fei Gao, Yi Lin, Shaojie Shen.
 * [Mean-shift exploration in shape assembly of robot swarms
 ](https://www.nature.com/articles/s41467-023-39251-5)
 G. Sun, R. Zhou, Z. Ma, Y. Li, R. Gross, Z. Chen, and S. Zhao*
-[[AI总结]](/Summaries/MeanShift_exploration/MeanShift_exploration.md) 
+[[AI总结]](/Summaries/WindyLab/MeanShift_exploration/MeanShift_exploration.md) 
 [[Github]](https://github.com/WindyLab/Shape-assembly-code)
 ## 可靠飞行控制实验组 - 北京航空航天大学
 网址：https://rfly.buaa.edu.cn/index.html#/home   
