@@ -4,8 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3117fd7-d353-46d1-a92b-cfe4db767b89" name="更改" comment="fast lab update">
-      <change afterPath="$PROJECT_DIR$/Summaries/RFLY/Distributed_and_differentiable_vector/Distributed_and_differentiable_vector.md" afterDir="false" />
+    <list default="true" id="b3117fd7-d353-46d1-a92b-cfe4db767b89" name="更改" comment="UPDATE FOR RFLY">
+      <change afterPath="$PROJECT_DIR$/Summaries/RFLY/A_Survey_on_Passing/A_Survey_on_Passing.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Summaries/RFLY/A_Survey_on_Passing/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Summaries/RFLY/A_Survey_on_Passing/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Summaries/RFLY/A_Survey_on_Passing/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Summaries/RFLY/A_Survey_on_Passing/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Summaries/RFLY/A_Survey_on_Passing/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Summaries/RFLY/A_Survey_on_Passing/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Summaries/RFLY/A_Survey_on_Passing/img_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Summaries/RFLY/A_Survey_on_Passing/img_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Summaries/RFLY/A_Survey_on_Passing/img_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Summaries/RFLY/bee_inspired_swarm/bee_inspired_swarm.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Summaries/RFLY/bee_inspired_swarm/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Summaries/RFLY/bee_inspired_swarm/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Summaries/RFLY/bee_inspired_swarm/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Summaries/RFLY/bee_inspired_swarm/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Summaries/RFLY/bee_inspired_swarm/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Summaries/RFLY/bee_inspired_swarm/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Summaries/RFLY/bee_inspired_swarm/img_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Summaries/RFLY/bee_inspired_swarm/img_7.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -83,7 +101,7 @@
       <workItem from="1750054232969" duration="10119000" />
       <workItem from="1750073467509" duration="9000" />
       <workItem from="1750140021224" duration="1800000" />
-      <workItem from="1750225016108" duration="4189000" />
+      <workItem from="1750225016108" duration="5673000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <option name="closed" value="true" />
@@ -277,7 +295,23 @@
       <option name="project" value="LOCAL" />
       <updated>1750231785983</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="fast lab update">
+      <option name="closed" value="true" />
+      <created>1750232666313</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1750232666313</updated>
+    </task>
+    <task id="LOCAL-00026" summary="UPDATE FOR RFLY">
+      <option name="closed" value="true" />
+      <created>1750232704588</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1750232704588</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -286,6 +320,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="测试" />
     <MESSAGE value="fast lab update" />
-    <option name="LAST_COMMIT_MESSAGE" value="fast lab update" />
+    <MESSAGE value="UPDATE FOR RFLY" />
+    <option name="LAST_COMMIT_MESSAGE" value="UPDATE FOR RFLY" />
   </component>
 </project>

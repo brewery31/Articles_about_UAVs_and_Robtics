@@ -239,8 +239,21 @@ S. Zhao*[[AI总结]](/Summaries/WindyLab/Affine_formation/Affine_formation.md)
 所发期刊
 ### IEEE Transactions on Automatic Control [J]
 #### 2025
-[Distributed and differentiable vector field control within a curved virtual tube for a robotic swarm under field-of-view constraints](https://ieeexplore.ieee.org/abstract/document/10856364)
+* [Distributed and differentiable vector field control within a curved virtual tube for a robotic swarm under field-of-view constraints](https://ieeexplore.ieee.org/abstract/document/10856364)
 Yan Gao, Chenggang Bai, Quan Quan[[AI总结]](/Summaries/RFLY/Distributed_and_differentiable_vector/Distributed_and_differentiable_vector.md) 
+
+
+### Journal of Systems Engineering and Electronics
+#### 2024
+* [A Survey on Passing-through Control of Multi-Robot Systems in Cluttered Environments](https://arxiv.org/abs/2311.07082#:~:text=This%20survey%20presents%20a%20comprehensive%20review%20of%20various,passing-through%20control%20of%20multi-robot%20systems%20in%20cluttered%20environments.)
+Yan Gao, Chenggang Bai, Quan Quan
+[[AI总结]](/Summaries/RFLY/A_Survey_on_Passing-through/A_Survey_on_Passing.md) 
+### IEEE International Conference on Robotics and Automation [C]
+#### 2023
+* [Swarm robotics search and rescue: a bee-inspired swarm cooperation approach without information exchange](https://rfly.buaa.edu.cn/pdfs/2023/Swarm_Robotics_Search_and_Rescue_A_Bee_Inspired_Swarm.pdf)
+Yue Li, Yan Gao, Sijie Yang, and Quan Quan
+[[AI总结]](/Summaries/RFLY/bee_inspired_swarm/bee_inspired_swarm.md)[[视频]](https://www.bilibili.com/video/BV1gP411U7dA)
+
 ## HKUST Aerial Robotics Group - 香港科技大学
 网址：https://uav.hkust.edu.hk   
 所发期刊
