@@ -65,4 +65,4 @@
 
 ### **7. 开源与补充材料**
 - **代码与视频**：发布于[GitHub](https://github.com/RflyBUAA/CurveVirtualTubeFOV)和[YouTube](https://youtu.be/A9GEj7kdrB0)。
-- **应用潜力**：适用于无人机编队、自动驾驶车队等场景。
+- **应用潜力**：适用于无人机编队、自动驾驶车队等场景.
