@@ -133,8 +133,9 @@ Chen Feng, Boyu Zhou, Haojia Li, Fei Gao, Shaojie Shen.
 * Efficient View Path Planning for Autonomous Implicit Reconstruction
 Jing Zeng, Yanxu Li, Yunlong Ran, Shuo Li, Shibo He, Fei Gao, Lincheng Li, Jiming Chen, Qi Ye.
 #### 2022
-* Distributed Swarm Trajectory Optimization for Formation Flight in Dense Environments
-Lun Quan, Longji Yin, Chao Xu, Fei Gao.
+* [Distributed Swarm Trajectory Optimization for Formation Flight in Dense Environments]()
+Lun Quan, Longji Yin, Chao Xu, Fei Gao.[[AI总结]](Summaries/FAST_Lab/Distributed_Swarm_Trajectory.md) 
+[[Github]](https://github.com/ZJU-FAST-Lab/Swarm-Formation)
 * Star-Convex Constrained Optimization for Visibility Planning with Application to Aerial Inspection
 Tianyu Liu, Qianhao Wang, Xingguang Zhong, Zhepei Wang, Fu Zhang, Chao Xu, Fei Gao.
 * The Visual Inertial-Dynamical Multirotor Dataset
