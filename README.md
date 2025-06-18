@@ -229,6 +229,12 @@ Fei Gao, Yi Lin, Shaojie Shen.
 G. Sun, R. Zhou, Z. Ma, Y. Li, R. Gross, Z. Chen, and S. Zhao*
 [[AI总结]](/Summaries/WindyLab/MeanShift_exploration/MeanShift_exploration.md) 
 [[Github]](https://github.com/WindyLab/Shape-assembly-code)
+
+### IEEE Transactions on Automatic Control [J]
+#### 2018
+* [Affine formation maneuver control of multi-agent systems](https://shiyuzhao.westlake.edu.cn/8-2018TACAffine.pdf)
+S. Zhao*[[AI总结]](/Summaries/WindyLab/Affine_formation/Affine_formation.md) 
+
 ## 可靠飞行控制实验组 - 北京航空航天大学
 网址：https://rfly.buaa.edu.cn/index.html#/home   
 所发期刊
