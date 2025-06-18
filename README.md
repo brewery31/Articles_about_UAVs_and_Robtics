@@ -235,9 +235,12 @@ G. Sun, R. Zhou, Z. Ma, Y. Li, R. Gross, Z. Chen, and S. Zhao*
 * [Affine formation maneuver control of multi-agent systems](https://shiyuzhao.westlake.edu.cn/8-2018TACAffine.pdf)
 S. Zhao*[[AI总结]](/Summaries/WindyLab/Affine_formation/Affine_formation.md) 
 
-## 可靠飞行控制实验组 - 北京航空航天大学
-网址：https://rfly.buaa.edu.cn/index.html#/home   
+## [可靠飞行控制实验组 - 北京航空航天大学](https://rfly.buaa.edu.cn/index.html#/home)
 所发期刊
+### IEEE Transactions on Automatic Control [J]
+#### 2025
+[Distributed and differentiable vector field control within a curved virtual tube for a robotic swarm under field-of-view constraints](https://ieeexplore.ieee.org/abstract/document/10856364)
+Yan Gao, Chenggang Bai, Quan Quan[[AI总结]](/Summaries/RFLY/Distributed_and_differentiable_vector/Distributed_and_differentiable_vector.md) 
 ## HKUST Aerial Robotics Group - 香港科技大学
 网址：https://uav.hkust.edu.hk   
 所发期刊
