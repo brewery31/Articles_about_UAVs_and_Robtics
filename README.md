@@ -207,7 +207,7 @@ Botao He, Haojia Li, Siyuan Wu, Dong Wang, Zhiwei Zhang, Qianli Dong, Chao Xu, F
 Yingjian Wang, Jialin Ji, Qianhao Wang, Chao Xu, Fei Gao.
 * Visibility-aware Trajectory Optimization with Application to Aerial Tracking
 Qianhao Wang, Yuman Gao, Jialin Ji, Chao Xu, Fei Gao.
-*Learning-based 3D Occupancy Prediction for Autonomous Navigation in Occluded Environments*
+* Learning-based 3D Occupancy Prediction for Autonomous Navigation in Occluded Environments*
 Lizi Wang, Hongkai Ye, Qianhao Wang, Yuman Gao, Chao Xu, Fei Gao.
 #### 2019
 * FIESTA: A Fast Incremental Euclidean Distance Fields for Online Quadrotor Motion Planning
@@ -218,9 +218,17 @@ Jiarong Lin, Luqi Wang, Fei Gao, Shaojie Shen, Fu Zhang.
 * Gradient-Based Online Safe Trajectory Generation for Quadrotor Flight in Complex Environments
 Fei Gao, Yi Lin, Shaojie Shen.
 
-## 智能无人系统实验室 - 西湖大学
-网址：https://shiyuzhao.westlake.edu.cn/  
+## [智能无人系统实验室 - 西湖大学](https://shiyuzhao.westlake.edu.cn/ )
+[[Github]](https://github.com/WindyLab)   [[Bilibili]](https://space.bilibili.com/2044042934?spm_id_from=333.337.0.0)
+
 所发期刊
+### Nature Communications [J]
+#### 2023
+* [Mean-shift exploration in shape assembly of robot swarms
+](https://www.nature.com/articles/s41467-023-39251-5)
+G. Sun, R. Zhou, Z. Ma, Y. Li, R. Gross, Z. Chen, and S. Zhao*
+[[AI总结]](/Summaries/MeanShift_exploration/MeanShift_exploration.md) 
+[[Github]](https://github.com/WindyLab/Shape-assembly-code)
 ## 可靠飞行控制实验组 - 北京航空航天大学
 网址：https://rfly.buaa.edu.cn/index.html#/home   
 所发期刊
